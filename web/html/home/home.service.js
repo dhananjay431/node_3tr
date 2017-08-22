@@ -1,1 +1,4 @@
-"service.js"
+(function(){
+	"service.js.js"	
+});
+

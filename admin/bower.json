@@ -1,0 +1,21 @@
+{
+  "name": "api",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "dhananjay431 <dbel431@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/dhananjay431/node_3tr",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-ui-router": "^1.0.6",
+    "angular": "^1.6.6"
+  }
+}
